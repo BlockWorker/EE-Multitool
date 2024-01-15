@@ -1,0 +1,10 @@
+*.l#*
+*.s#*
+*.b#*
+*.d#*
+.generated_files/
+build/
+debug/
+dist/
+*.mc3.bak*
+EPD_Driver_Lib/
